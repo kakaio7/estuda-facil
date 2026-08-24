@@ -20,17 +20,17 @@ Entender como os estudantes organizam atualmente suas atividades escolares e cri
 
 ## Tarefas:
 
- Entrevistar estudantes sobre como organizam suas atividades.
+[ ] Entrevistar estudantes sobre como organizam suas atividades.
  
- Identificar as principais dificuldades enfrentadas.
+[ ] Identificar as principais dificuldades enfrentadas.
  
- Definir quais informações cada atividade deve possuir.
+[ ] Definir quais informações cada atividade deve possuir.
  
- Criar um modelo inicial para organizar tarefas e prazos.
+[ ] Criar um modelo inicial para organizar tarefas e prazos.
  
- Testar o modelo com pelo menos um estudante.
+[ ] Testar o modelo com pelo menos um estudante.
  
- Registrar o feedback e identificar melhorias.
+[ ] Registrar o feedback e identificar melhorias.
  
 ## Equipe:
 
